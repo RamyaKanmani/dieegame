@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+}
+.container {
+    /* width: 70%; */
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+
+  }
+  .Refresh{
+      /* font-size: 6rem; */
+      font-family: 'Lobster', cursive;
+      color:aqua;
+      color: chartreuse;
+  }
+  h2{
+    /* font-size: 5rem; */
+    font-family: 'Lobster', cursive; 
+    color:aqua;
+  }
+  .dice{
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+}
+footer{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 20px;
+}
+p{
+    color: aqua;
+    font-size: 40px;
+}
